@@ -1,7 +1,7 @@
 # Plaid
 ![Plaid image](plaid.jpeg)
 ## Description
-*Description content: Content for the description
+#### (Description content: Content for the description)
 
 ### Contributors:
 * Chad DeMartino 
@@ -9,7 +9,7 @@
 * Manuela Wafo
 
 
-### A title for the FinTech case study report
+### (A title for the FinTech case study report)
 
 
-* Case study content: Content for the case study
+#### (Case study content: Content for the case study)
